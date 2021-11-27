@@ -10,6 +10,8 @@
 ### 1. 디자인 진행
 > ![UI캡쳐](https://user-images.githubusercontent.com/54977412/140598062-5f70dac6-9c33-49ca-a334-0e09ed167d16.png)
    
+<br/>
+
 ### 2. UI 작업(styled-componnets)
 
 |**페이지 및 화면 소개**||
@@ -24,4 +26,9 @@
 |<img src="https://user-images.githubusercontent.com/54977412/140598935-ddf7a642-d826-4ee2-b839-0525cf926d8a.png" width="100%" height="20%"/>|<img src="https://user-images.githubusercontent.com/54977412/140598937-ee31fb6c-2fbb-4de5-a955-561e4de3016e.png" width="100%" height="20%"/>|
 |**Page 6) 투표하기**|**Page 6+) 투표한 경우**|
 |<img src="https://user-images.githubusercontent.com/54977412/140598961-e08c965c-0ec1-48cd-a9f4-66670ec984dc.png" width="100%" height="20%"/>|<img src="https://user-images.githubusercontent.com/54977412/140598964-b897fadb-507b-4f17-b56f-1f63c072a348.png" width="100%" height="20%"/>|
+
+<br/>
+
+### 3. 실제 동작
+> https://user-images.githubusercontent.com/54977412/143673085-88cb8673-04d0-415d-bb32-359e046487c9.mp4
 
